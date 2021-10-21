@@ -12,9 +12,9 @@ After downloading Northwind, you must change connectionstring on appsetting.json
 -> Simple Dml Operations
 <br>
 -> Layered Architecture
-< br >
+<br>
 -> Dapper
-< br >
+<br>
 -> Generic Repository Design Pattern
 
 
