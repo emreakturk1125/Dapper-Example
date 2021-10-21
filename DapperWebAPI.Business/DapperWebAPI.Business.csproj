@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DapperWebAPI.Core\DapperWebAPI.Core.csproj" />
+    <ProjectReference Include="..\DapperWebAPI.DataAccess\DapperWebAPI.DataAccess.csproj" />
+    <ProjectReference Include="..\DapperWebAPI.Entities\DapperWebAPI.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

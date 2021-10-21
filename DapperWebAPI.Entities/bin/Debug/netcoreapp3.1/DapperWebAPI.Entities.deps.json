@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DapperWebAPI.Entities/1.0.0": {
+        "runtime": {
+          "DapperWebAPI.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DapperWebAPI.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

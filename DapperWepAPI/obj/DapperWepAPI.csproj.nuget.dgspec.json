@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWepAPI\\DapperWepAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\DapperWebAPI.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\DapperWebAPI.Business.csproj",
+        "projectName": "DapperWebAPI.Business",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\DapperWebAPI.Business.csproj",
+        "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\DapperWebAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\DapperWebAPI.Core.csproj"
+              },
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj"
+              },
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\DapperWebAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\DapperWebAPI.Core.csproj",
+        "projectName": "DapperWebAPI.Core",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\DapperWebAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj",
+        "projectName": "DapperWebAPI.DataAccess",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj",
+        "projectName": "DapperWebAPI.Entities",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\DapperWebAPI.Entities.csproj",
+        "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWepAPI\\DapperWepAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWepAPI\\DapperWepAPI.csproj",
+        "projectName": "DapperWepAPI",
+        "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWepAPI\\DapperWepAPI.csproj",
+        "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWepAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\DapperWebAPI.Business.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.Business\\DapperWebAPI.Business.csproj"
+              },
+              "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\Dapper\\DapperWebAPI.DataAccess\\DapperWebAPI.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

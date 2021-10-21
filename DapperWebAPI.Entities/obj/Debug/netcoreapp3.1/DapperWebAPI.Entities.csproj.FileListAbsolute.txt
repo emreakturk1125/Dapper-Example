@@ -1,0 +1,9 @@
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\bin\Debug\netcoreapp3.1\DapperWebAPI.Entities.deps.json
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\bin\Debug\netcoreapp3.1\DapperWebAPI.Entities.dll
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\bin\Debug\netcoreapp3.1\DapperWebAPI.Entities.pdb
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.csprojAssemblyReference.cache
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.AssemblyInfo.cs
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.dll
+C:\Users\aktur\source\repos\Dapper\DapperWebAPI.Entities\obj\Debug\netcoreapp3.1\DapperWebAPI.Entities.pdb
